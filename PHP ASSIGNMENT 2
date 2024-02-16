@@ -1,0 +1,11 @@
+
+
+Write a php code to output your name, regno, state of origin, lga and age 
+
+<?php
+echo "<p>Fullname: ONYEKWEREMARY </p>";
+echo "<p>Registration Number: 2022/HND/32823/cs </p>";
+echo "<p>State of Origin: abia state </p>";
+echo "<p>Local Government: Ikwuano </p>";
+echo "<p>Age: 23 </p>";
+?>
